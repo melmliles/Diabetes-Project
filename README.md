@@ -13,7 +13,7 @@ Diabetes pedigree function
 Age (years)  
 Class variable (0 or 1)  
 
-### Here is an overview of the steps in this project:
+### Overview of the project steps 
 
 1.Prepare Problem  
 a) Load libraries needed for this problem  
