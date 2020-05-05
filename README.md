@@ -13,6 +13,8 @@ Diabetes pedigree function
 Age (years)  
 Class variable (0 or 1)  
 
+### Here is an overview of the steps in this project:
+
 1.Prepare Problem  
 a) Load libraries needed for this problem  
 b) Load dataset from Kaggle (Pima Indians Diabetes Database)  
